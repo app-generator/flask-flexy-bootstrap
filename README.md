@@ -1,10 +1,10 @@
 # Flask Flexy Lite
 
-Open-Source **Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of MaterialPro Bootstrap Lite, a modern Bootstrap dashboard design. [WrapPixel](https://appseed.us/agency/wrappixel)'s **MaterialPro Bootstrap Lite** is one of the best Bootstrap templates for admin dashboards and control admin panels. This powerful and competent Bootstrap 4 admin template is based on HTML and is built with the CSS framework. 
+Open-Source **Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Flexy Bootstrap Lite, a modern Bootstrap dashboard design. [WrapPixel](https://appseed.us/agency/wrappixel)'s **Flexy Bootstrap Lite** is one of the best Bootstrap templates for admin dashboards and control admin panels. This powerful and competent Bootstrap 4 admin template is based on HTML and is built with the CSS framework. 
 
 <br />
 
-> Features
+> Built with [Flexy Lite Generator](https://appseed.us/generator/flexy-bootstrap/)
 
 - `Up-to-date dependencies`
 - `DBMS`: SQLite, PostgreSQL (production) 
