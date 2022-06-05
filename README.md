@@ -18,7 +18,7 @@ Open-Source **Flask Dashboard** coded with basic modules, database, ORM and depl
 > Links
 
 - 👉 [Flask Flexy Lite](#) - product page (soon)
-- 👉 [Flask Flexy Lite](flask-flexy-bootstrap.appseed-srv1.com) - LIVE deployment
+- 👉 [Flask Flexy Lite](https://flask-flexy-bootstrap.appseed-srv1.com) - LIVE deployment
 
 <br />
 
