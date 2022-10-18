@@ -1,6 +1,6 @@
 # Flask Flexy Lite
 
-Open-Source **Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of Flexy Bootstrap Lite, a modern Bootstrap dashboard design. [WrapPixel](https://appseed.us/agency/wrappixel)'s **Flexy Bootstrap Lite** is one of the best Bootstrap templates for admin dashboards and control admin panels. This powerful and competent Bootstrap 4 admin template is based on HTML and is built with the CSS framework. 
+Open-Source **[Flask Dashboard](https://appseed.us/admin-dashboards/flask/)** coded with basic modules, database, ORM and deployment scripts on top of Flexy Bootstrap Lite, a modern Bootstrap dashboard design. [WrapPixel](https://appseed.us/agency/wrappixel)'s **Flexy Bootstrap Lite** is one of the best Bootstrap templates for admin dashboards and control admin panels. This powerful and competent Bootstrap 4 admin template is based on HTML and is built with the CSS framework. 
 
 - 👉 [Flask Flexy Lite](https://flask-flexy-bootstrap.appseed-srv1.com) - LIVE deployment
 - 👉 Free [support](https://appseed.us/support/) via `Email` & `Discord`
@@ -9,10 +9,11 @@ Open-Source **Flask Dashboard** coded with basic modules, database, ORM and depl
 
 > 🚀 Built with [App Generator](https://appseed.us/generator/), Timestamp: `2022-06-08 12:24`
 
-- `Up-to-date dependencies`
-- Database: `sqlite`
-- `DB Tools`: SQLAlchemy ORM, Flask-Migrate (schema migrations)
-- Session-Based authentication (via **flask_login**), Forms validation
+- ✅ `Up-to-date dependencies`
+- ✅ Database: `sqlite`
+- ✅ `DB Tools`: SQLAlchemy ORM, Flask-Migrate (schema migrations)
+- ✅ Session-Based authentication (via **flask_login**), Forms validation
+- ✅ `Docker`
 
 <br /> 
 
@@ -22,14 +23,14 @@ Open-Source **Flask Dashboard** coded with basic modules, database, ORM and depl
 
 ## ✨ Quick Start in `Docker`
 
-> Get the code
+> 👉 Get the code
 
 ```bash
 $ git clone https://github.com/app-generator/flask-flexy-bootstrap.git
 $ cd flask-flexy-bootstrap
 ```
 
-> Start the app in Docker
+> 👉 Start the app in Docker
 
 ```bash
 $ docker-compose up --build 
